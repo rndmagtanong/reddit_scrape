@@ -4,8 +4,8 @@ from praw.models import MoreComments
 import urllib.request
 import os
 
-my_client_id = 'vrmDfDh2BCQtlBqZjwyXlA'
-my_secret = '8vGLp6NHfR1uMeqC6JPkR0eLQjQfwg'
+my_client_id = ''
+my_secret = ''
 my_user_agent = 'Scraping'
 
 # Read-only instance
